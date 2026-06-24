@@ -1,4 +1,4 @@
-let num: number[] = [5, 6, 1, 9, 8, 4, 4, 5 , 6 , 8];
+let num: number[] = [5, 6, 1, 9, 8, 4, 4, 5 , 6 , 8, 7, 6];
 
 function grade(numtest:number[]) {
     let numSum: number[] = []

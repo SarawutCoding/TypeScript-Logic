@@ -1,5 +1,5 @@
 "use strict";
-let num = [5, 6, 1, 9, 8, 4, 4, 5, 6, 8];
+let num = [5, 6, 1, 9, 8, 4, 4, 5, 6, 8, 7, 6];
 function grade(numtest) {
     let numSum = [];
     let rever;
